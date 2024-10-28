@@ -1,7 +1,5 @@
 # Chuck Norris ![](./docs/img/Chuck-Norris-32.png) Jokes
 
-[![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md)
-
 It's a simple project for “Google Chrome Extensions” as a kind of exercise for HTML, CSS and JS (Knowledge from [ZTM][3] courses). <br>Feel free to clone it and play around with it.
 
 <img src="./docs/img/example.png" alt="drawing" width="400"/>
