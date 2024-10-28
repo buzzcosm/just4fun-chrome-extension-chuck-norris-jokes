@@ -1,6 +1,6 @@
 # Chuck Norris ![](./docs/img/Chuck-Norris-32.png) Jokes
 
-It's a simple project for “Google Chrome Extensions” as a kind of exercise for HTML, CSS and JS (Knowledge from [ZTM][3] courses). <br>Feel free to clone it and play around with it.
+It's a simple project for “Google Chrome Extensions” as a kind of exercise for HTML, CSS and JS (Knowledge from [ZTM][3] courses). Feel free to clone it and play around with it.
 
 <img src="./docs/img/example.png" alt="drawing" width="400"/>
 
